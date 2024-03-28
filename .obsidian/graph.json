@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "svsdds",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 0.431770833333333,
+  "lineSizeMultiplier": 1.45260416666667,
+  "collapse-forces": true,
+  "centerStrength": 0.473958333333333,
+  "repelStrength": 10.1041666666667,
+  "linkStrength": 0.5,
+  "linkDistance": 275,
+  "scale": 3.5555555555555554,
+  "close": false
+}

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "svds": "number",
+    "qsdcv": "date",
+    "d": "checkbox",
+    "sqcs": "multitext",
+    "sdvds": "datetime"
+  }
+}

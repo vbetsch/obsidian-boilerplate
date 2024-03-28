@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "app:toggle-right-sidebar",
+    "workspace:export-pdf",
+    "app:reload",
+    "editor:focus"
+  ]
+}
